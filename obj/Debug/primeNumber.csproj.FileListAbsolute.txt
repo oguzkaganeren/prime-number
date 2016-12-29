@@ -1,0 +1,5 @@
+D:\csharpProject\primeNumber\primeNumber\bin\Debug\primeNumber.exe.config
+D:\csharpProject\primeNumber\primeNumber\bin\Debug\primeNumber.exe
+D:\csharpProject\primeNumber\primeNumber\bin\Debug\primeNumber.pdb
+D:\csharpProject\primeNumber\primeNumber\obj\Debug\primeNumber.exe
+D:\csharpProject\primeNumber\primeNumber\obj\Debug\primeNumber.pdb
